@@ -1,0 +1,98 @@
+Binding on line 3: bool was declared in <type decl> bool on line 3
+Binding on line 3: Boolean was declared in <type decl> in the library
+Binding on line 3: int was declared in <type decl> int on line 3
+Binding on line 3: integer was declared in <type decl> in the library
+Binding on line 8: bool was declared in <type decl> bool on line 3
+Binding on line 10: write was declared in <proc decl> in the library
+Binding on line 10: x was declared in <param decl> x on line 8
+Binding on line 10: x was declared in <param decl> x on line 8
+Binding on line 10: eol was declared in <const decl> in the library
+Binding on line 14: Test was declared in <proc decl> Test on line 8
+Binding on line 14: false was declared in <enum literal> in the library
+Binding on line 14: Test was declared in <proc decl> Test on line 8
+Binding on line 14: true was declared in <enum literal> in the library
+Binding on line 20: bool was declared in <type decl> bool on line 3
+Binding on line 20: bool was declared in <type decl> bool on line 3
+Binding on line 22: write was declared in <proc decl> in the library
+Binding on line 22: x was declared in <param decl> x on line 20
+Binding on line 22: y was declared in <param decl> y on line 20
+Binding on line 22: x was declared in <param decl> x on line 20
+Binding on line 22: y was declared in <param decl> y on line 20
+Binding on line 22: eol was declared in <const decl> in the library
+Binding on line 23: write was declared in <proc decl> in the library
+Binding on line 23: x was declared in <param decl> x on line 20
+Binding on line 23: y was declared in <param decl> y on line 20
+Binding on line 23: x was declared in <param decl> x on line 20
+Binding on line 23: y was declared in <param decl> y on line 20
+Binding on line 23: eol was declared in <const decl> in the library
+Binding on line 27: Test was declared in <proc decl> Test on line 20
+Binding on line 27: false was declared in <enum literal> in the library
+Binding on line 27: false was declared in <enum literal> in the library
+Binding on line 27: Test was declared in <proc decl> Test on line 20
+Binding on line 27: false was declared in <enum literal> in the library
+Binding on line 27: true was declared in <enum literal> in the library
+Binding on line 28: Test was declared in <proc decl> Test on line 20
+Binding on line 28: true was declared in <enum literal> in the library
+Binding on line 28: false was declared in <enum literal> in the library
+Binding on line 28: Test was declared in <proc decl> Test on line 20
+Binding on line 28: true was declared in <enum literal> in the library
+Binding on line 28: true was declared in <enum literal> in the library
+Binding on line 34: int was declared in <type decl> int on line 3
+Binding on line 36: write was declared in <proc decl> in the library
+Binding on line 36: x was declared in <param decl> x on line 34
+Binding on line 36: x was declared in <param decl> x on line 34
+Binding on line 36: eol was declared in <const decl> in the library
+Binding on line 37: write was declared in <proc decl> in the library
+Binding on line 37: x was declared in <param decl> x on line 34
+Binding on line 37: x was declared in <param decl> x on line 34
+Binding on line 37: eol was declared in <const decl> in the library
+Binding on line 41: Test was declared in <proc decl> Test on line 34
+Binding on line 41: Test was declared in <proc decl> Test on line 34
+Binding on line 41: Test was declared in <proc decl> Test on line 34
+Binding on line 47: int was declared in <type decl> int on line 3
+Binding on line 47: int was declared in <type decl> int on line 3
+Binding on line 49: write was declared in <proc decl> in the library
+Binding on line 49: x was declared in <param decl> x on line 47
+Binding on line 49: y was declared in <param decl> y on line 47
+Binding on line 49: x was declared in <param decl> x on line 47
+Binding on line 49: y was declared in <param decl> y on line 47
+Binding on line 49: eol was declared in <const decl> in the library
+Binding on line 50: write was declared in <proc decl> in the library
+Binding on line 50: x was declared in <param decl> x on line 47
+Binding on line 50: y was declared in <param decl> y on line 47
+Binding on line 50: x was declared in <param decl> x on line 47
+Binding on line 50: y was declared in <param decl> y on line 47
+Binding on line 50: eol was declared in <const decl> in the library
+Binding on line 51: write was declared in <proc decl> in the library
+Binding on line 51: x was declared in <param decl> x on line 47
+Binding on line 51: y was declared in <param decl> y on line 47
+Binding on line 51: x was declared in <param decl> x on line 47
+Binding on line 51: y was declared in <param decl> y on line 47
+Binding on line 51: eol was declared in <const decl> in the library
+Binding on line 52: y was declared in <param decl> y on line 47
+Binding on line 53: write was declared in <proc decl> in the library
+Binding on line 53: x was declared in <param decl> x on line 47
+Binding on line 53: y was declared in <param decl> y on line 47
+Binding on line 53: x was declared in <param decl> x on line 47
+Binding on line 53: y was declared in <param decl> y on line 47
+Binding on line 53: eol was declared in <const decl> in the library
+Binding on line 54: write was declared in <proc decl> in the library
+Binding on line 54: x was declared in <param decl> x on line 47
+Binding on line 54: y was declared in <param decl> y on line 47
+Binding on line 54: x was declared in <param decl> x on line 47
+Binding on line 54: y was declared in <param decl> y on line 47
+Binding on line 54: eol was declared in <const decl> in the library
+Binding on line 59: Test was declared in <proc decl> Test on line 47
+Binding on line 59: Test was declared in <proc decl> Test on line 47
+Binding on line 59: Test was declared in <proc decl> Test on line 47
+Binding on line 60: Test was declared in <proc decl> Test on line 47
+Binding on line 60: Test was declared in <proc decl> Test on line 47
+Binding on line 60: Test was declared in <proc decl> Test on line 47
+Binding on line 61: Test was declared in <proc decl> Test on line 47
+Binding on line 61: Test was declared in <proc decl> Test on line 47
+Binding on line 61: Test was declared in <proc decl> Test on line 47
+Binding on line 66: TestUnaryBoolean was declared in <proc decl> TestUnaryBoolean on line 6
+Binding on line 66: TestUnaryNumeric was declared in <proc decl> TestUnaryNumeric on line 32
+Binding on line 67: TestBinaryBoolean was declared in <proc decl> TestBinaryBoolean on line 18
+Binding on line 67: TestBinaryNumeric was declared in <proc decl> TestBinaryNumeric on line 45
+Assembly errors detected.

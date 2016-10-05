@@ -1,0 +1,55 @@
+Bracketed classes are abstract.
+Indentations marks subclasses.
+
+[PascalSyntax]		 
+- Block		
+- - Library	 
+- ConstDeclPart		 
+- Expression		 
+			
+- [Factor]		    
+- - [Constant]		  
+- - - CharLiteral	 
+- - - NamedConst	   
+- - - NumberLiteral	  
+- - - StringLiteral	  
+- - FuncCall		  
+- - InnerExpr		  
+- - Negation		  
+- - Variable 		  
+			
+- [Operator]		    
+- - FactorOpr	    
+- - PrefixOpr	    
+- - RelOpr		    
+- - TermOpr	    
+- ParamDeclList		  
+			
+- [PascalDecl]		 
+- - ConstDecl		   
+- - EnumLiteral		   
+- - ParamDecl		   
+- - ProcDecl		   
+- - - FuncDecl		   
+- - Program		 
+- - TypeDecl		  
+- - VarDecl		  
+- SimpleExpr		  
+			
+- [Statement]		   
+- - AssignStatm		  
+- - CompoundStatm	  
+- - EmptyStatm		 
+- - IfStatm		  
+- - ProcCallStatm	  
+- - WhileStatm		 
+- StatmList		    
+- Term			   
+			
+- [Type]		  
+- - ArrayType		   
+- - EnumType		  
+- - RangeType		  
+- - TypeName		  
+- TypeDeclPart		    
+- VarDeclPart 		   

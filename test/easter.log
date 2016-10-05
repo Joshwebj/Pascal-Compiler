@@ -1,0 +1,74 @@
+Binding on line 8: integer was declared in <type decl> in the library
+Binding on line 10: integer was declared in <type decl> in the library
+Binding on line 12: integer was declared in <type decl> in the library
+Binding on line 12: integer was declared in <type decl> in the library
+Binding on line 12: integer was declared in <type decl> in the library
+Binding on line 12: integer was declared in <type decl> in the library
+Binding on line 12: integer was declared in <type decl> in the library
+Binding on line 13: integer was declared in <type decl> in the library
+Binding on line 13: integer was declared in <type decl> in the library
+Binding on line 13: integer was declared in <type decl> in the library
+Binding on line 13: integer was declared in <type decl> in the library
+Binding on line 13: integer was declared in <type decl> in the library
+Binding on line 14: integer was declared in <type decl> in the library
+Binding on line 14: integer was declared in <type decl> in the library
+Binding on line 16: integer was declared in <type decl> in the library
+Binding on line 17: integer was declared in <type decl> in the library
+Binding on line 19: integer was declared in <type decl> in the library
+Binding on line 21: a was declared in <var decl> a on line 12
+Binding on line 21: y was declared in <param decl> y on line 10
+Binding on line 22: b was declared in <var decl> b on line 12
+Binding on line 22: y was declared in <param decl> y on line 10
+Binding on line 23: c was declared in <var decl> c on line 12
+Binding on line 23: y was declared in <param decl> y on line 10
+Binding on line 24: d was declared in <var decl> d on line 12
+Binding on line 24: b was declared in <var decl> b on line 12
+Binding on line 25: e was declared in <var decl> e on line 12
+Binding on line 25: b was declared in <var decl> b on line 12
+Binding on line 26: f was declared in <var decl> f on line 13
+Binding on line 26: b was declared in <var decl> b on line 12
+Binding on line 27: g was declared in <var decl> g on line 13
+Binding on line 27: b was declared in <var decl> b on line 12
+Binding on line 27: f was declared in <var decl> f on line 13
+Binding on line 28: h was declared in <var decl> h on line 13
+Binding on line 28: a was declared in <var decl> a on line 12
+Binding on line 28: b was declared in <var decl> b on line 12
+Binding on line 28: d was declared in <var decl> d on line 12
+Binding on line 28: g was declared in <var decl> g on line 13
+Binding on line 29: i was declared in <var decl> i on line 13
+Binding on line 29: c was declared in <var decl> c on line 12
+Binding on line 30: k was declared in <var decl> k on line 13
+Binding on line 30: c was declared in <var decl> c on line 12
+Binding on line 31: l was declared in <var decl> l on line 14
+Binding on line 31: e was declared in <var decl> e on line 12
+Binding on line 31: i was declared in <var decl> i on line 13
+Binding on line 31: h was declared in <var decl> h on line 13
+Binding on line 31: k was declared in <var decl> k on line 13
+Binding on line 32: m was declared in <var decl> m on line 14
+Binding on line 32: a was declared in <var decl> a on line 12
+Binding on line 32: h was declared in <var decl> h on line 13
+Binding on line 32: l was declared in <var decl> l on line 14
+Binding on line 34: month was declared in <var decl> month on line 16
+Binding on line 34: h was declared in <var decl> h on line 13
+Binding on line 34: l was declared in <var decl> l on line 14
+Binding on line 34: m was declared in <var decl> m on line 14
+Binding on line 35: day was declared in <var decl> day on line 17
+Binding on line 35: h was declared in <var decl> h on line 13
+Binding on line 35: l was declared in <var decl> l on line 14
+Binding on line 35: m was declared in <var decl> m on line 14
+Binding on line 37: month was declared in <var decl> month on line 16
+Binding on line 38: write was declared in <proc decl> in the library
+Binding on line 38: day was declared in <var decl> day on line 17
+Binding on line 38: y was declared in <param decl> y on line 10
+Binding on line 38: eol was declared in <const decl> in the library
+Binding on line 40: write was declared in <proc decl> in the library
+Binding on line 40: day was declared in <var decl> day on line 17
+Binding on line 40: y was declared in <param decl> y on line 10
+Binding on line 40: eol was declared in <const decl> in the library
+Binding on line 44: y was declared in <var decl> y on line 8
+Binding on line 45: y was declared in <var decl> y on line 8
+Binding on line 47: easter was declared in <proc decl> easter on line 10
+Binding on line 47: y was declared in <var decl> y on line 8
+Binding on line 47: y was declared in <var decl> y on line 8
+Binding on line 47: y was declared in <var decl> y on line 8
+Assembly errors detected.

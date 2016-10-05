@@ -1,0 +1,22 @@
+Binding on line 8: integer was declared in <type decl> in the library
+Binding on line 10: integer was declared in <type decl> in the library
+Binding on line 10: integer was declared in <type decl> in the library
+Binding on line 10: integer was declared in <type decl> in the library
+Binding on line 12: n was declared in <param decl> n on line 10
+Binding on line 13: GCD was declared in <func decl> GCD on line 10
+Binding on line 13: m was declared in <param decl> m on line 10
+Binding on line 15: GCD was declared in <func decl> GCD on line 10
+Binding on line 15: GCD was declared in <func decl> GCD on line 10
+Binding on line 15: n was declared in <param decl> n on line 10
+Binding on line 15: m was declared in <param decl> m on line 10
+Binding on line 15: n was declared in <param decl> n on line 10
+Binding on line 19: res was declared in <var decl> res on line 8
+Binding on line 19: GCD was declared in <func decl> GCD on line 10
+Binding on line 19: v1 was declared in <const decl> v1 on line 6
+Binding on line 19: v2 was declared in <const decl> v2 on line 6
+Binding on line 20: write was declared in <proc decl> in the library
+Binding on line 20: v1 was declared in <const decl> v1 on line 6
+Binding on line 20: v2 was declared in <const decl> v2 on line 6
+Binding on line 20: res was declared in <var decl> res on line 8
+Binding on line 20: eol was declared in <const decl> in the library
+Assembly errors detected.
